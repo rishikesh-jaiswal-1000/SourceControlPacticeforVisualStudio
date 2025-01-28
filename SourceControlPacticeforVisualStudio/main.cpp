@@ -2,5 +2,5 @@
 
 int main()
 {
-	std::cout << "This is a main function.";
+	std::cout << "Hello. World!";
 }
